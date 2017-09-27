@@ -1,2 +1,2 @@
-# gomoku
+# Gomoku
 Gomoku Game  🎲
